@@ -1,10 +1,10 @@
 {
-  "version": "4.1.2",
+  "version": "4.1.4",
   "mandatory": true,
-  "reason": "CAiS Tools 4.1.2 update",
+  "reason": "CAiS Tools 4.1.4 update",
   "assets": [
-    { "name": "CaisTools.exe", "size": 224768, "sha1": "8c64760fc0c4605272e0ec4d2e923a21a86131bd" },
-    { "name": "CaisTools-Setup.exe", "size": 401920, "sha1": "ca897f6801cc227c1a4694adbce7d14e65a07d36" },
-    { "name": "Modpacks.exe", "size": 371200, "sha1": "53fcb64223ee3ad7ef512b917364488604e9cb0d" }
+    { "name": "CaisTools.exe", "size": 224768, "sha1": "fd16d60c206dc753a8e849423f79e6e21bde462b" },
+    { "name": "CaisTools-Setup.exe", "size": 401920, "sha1": "4843bc698c0ab9b5470d742225f2910d88799241" },
+    { "name": "Modpacks.exe", "size": 371200, "sha1": "2a646fcd429515e6061c8c67167923c469881c8d" }
   ]
 }
